@@ -61,3 +61,8 @@ To use the bot:
 - Integrate AI-based gift preference learning.
 - Support more customization options for user preferences.
 
+## 🏆 Team Members
+- ⿈浚瑀
+- 程品諭
+- ⽥安捷
+
