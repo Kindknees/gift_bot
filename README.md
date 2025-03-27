@@ -2,8 +2,19 @@
 
 The detailed report is in [LineBOT final project.pdf](./LineBOT%20final%20project.pdf)
 
+## 🏆 Team Members
+- ⿈浚瑀
+- 程品諭
+- ⽥安捷
+
 ## 📌 Introduction
-A LINE bot designed to help users find the perfect gift for any occasion. Whether it's a birthday, year-end gift exchange, or Valentine's Day, our bot provides thoughtful recommendations based on recipient details.
+A LINE bot designed to help users find the perfect gift for any occasion. Whether it's a birthday, year-end gift exchange, or Valentine's Day, our bot provides thoughtful recommendations based on recipient details.  
+Result screenshots:  
+<p align="center">
+  <img src="./src/121562.jpg" alt="drawing" width="25%"/>
+</br>
+<img src="./src/121563.jpg" alt="drawing" width="25%"/>
+</p>
 
 ## 🎯 Motivation
 Finding the right gift can be challenging. Questions like:
@@ -61,8 +72,4 @@ To use the bot:
 - Integrate AI-based gift preference learning.
 - Support more customization options for user preferences.
 
-## 🏆 Team Members
-- ⿈浚瑀
-- 程品諭
-- ⽥安捷
 
